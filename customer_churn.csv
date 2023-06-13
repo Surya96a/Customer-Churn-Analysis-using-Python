@@ -1,0 +1,6 @@
+"customer_id,age,gender,income,subscription_length,churn_label"
+"1,35,M,50000,12,False"
+"2,45,F,80000,6,True"
+"3,28,F,35000,24,False"
+"4,52,M,100000,8,True"
+"5,40,F,60000,36,False"
